@@ -37,8 +37,8 @@ Google Colab with NVCC Compiler
 
 ## PROGRAM:
 ```
-Developed By : THARUN V
-Register No. : 212224230290
+Developed By : Manimaran V
+Register No. : 212224220060
 ```
 
 ```
